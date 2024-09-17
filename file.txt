@@ -1,0 +1,11 @@
+1.	Cos’è un algoritmo ? Prova a spiegarlo a parole tue , come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+
+Un algoritmo è una serie di istruzioni che si seguono per risolvere un problema o eseguire un compito. Per fare un esempio un algoritmo potrebbe essere una ricetta di cucina , la quale ci da istruzioni precise passo dopo  passo da seguire per raggiungere il risultato finale . Allo stesso modo in informatica un algoritmo dice al computer cosa fare per ottenere un risultato specifico.
+
+2.	Cos’è una variabile ? Prova a spiegarlo a parole tue , come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+
+Una variabile è come una scatola vuota alla quale noi possiamo assegnare un valore che può essere un numero, una striga , un valore booleano o altri tipi di dati. In sintesi è un modo che utilizziamo per conservare un’ informazione in modo che il computer possa ricordarla e usarla all’ occorenza. Per continuare sull’esempio della ricetta di cucina , una variabile potrebbe essere una ciotola vuota nella quale noi aggiungiamo 10g di zucchero .
+
+3.	Undefined e null sono la stessa cosa ?
+
+No, undefined vuol dire che la variabile è stata creata ma non è stata definita , cioè non gli è stato assegnato un valore e in automatico diventa undefined , null invece è un valore intenzionale che assegniamo noi per dire che la variabile è vuota . in sintesi rappresentano entrambi un assenza di valore all’interno di una variabile ma undefined è automatico mentre null intenzionale.
